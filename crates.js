@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["autoupdater","skeletal_model","slimevr_overlay","solarxr","tokio_shutdown"];
