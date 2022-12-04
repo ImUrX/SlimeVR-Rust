@@ -1,0 +1,15 @@
+"Area: Application Protocol":
+- networking/*
+- networking/**/*
+
+"Area: Firmware":
+- firmware/*
+- firmware/**/*
+
+"Area: Overlay":
+- overlay/*
+- overlay/**/*
+
+"Area: Skeletal Model":
+- skeletal_model/*
+- skeletal_model/**/*
